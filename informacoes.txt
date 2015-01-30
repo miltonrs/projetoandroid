@@ -4,5 +4,4 @@ Objeto do aplicativo
 * O aplicativo deve informar as ultimas postagens de anuncios das categorias escolhidas pelo mesmo.
 * O anuncio será postado inicialmente pelos adminstradores atravez de um Painel de Administração.
 
-asdf
 
