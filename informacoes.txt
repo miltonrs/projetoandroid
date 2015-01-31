@@ -1,7 +1,19 @@
-Objeto do aplicativo
+Objetivo do aplicativo
 
-* Divulgar ofertas e produtos do Comercio de Camocim atraz do aplicativo android.
-* O aplicativo deve informar as ultimas postagens de anuncios das categorias escolhidas pelo mesmo.
-* O anuncio será postado inicialmente pelos adminstradores atravez de um Painel de Administração.
+* Divulgar ofertas e produtos do Comércio de Camocim através do aplicativo android.
+* O aplicativo deve informar as últimas postagens de anúncios das categorias escolhidas pelo mesmo.
+
+Alimentação do aplicativo
+* O anuncio será postado inicialmente pelos adminstradores através de um Painel de Administração.
+* Caso a empresa queira cuidar disso sozinha, poderá ser disponibilizado um painel para o usuário.
+* O aplicativo rodará direto no celular, no estilo whatsapp,buscando informações do servidor.
+
+Manipulação do aplicativo
+* A pessoa poderá pesquisar qualquer tipo de produto e escolher quais tipos de produto ela quer receber notificações
+* Interagir, mandando perguntas e sugestões através do app.
+
+
+
+
 
 
